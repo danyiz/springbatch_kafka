@@ -1,4 +1,4 @@
-package probatch.general.main;
+package batchapp.app;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
@@ -30,6 +30,5 @@ public class BatchApplication {
 
         };
     }
-
 }
 
